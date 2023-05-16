@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Blog articles here",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, laudantium deleniti dicta voluptate, necessitatibus inventore a illo iure ab quasi aut cum? Qui quo doloremque similique blanditiis delectus, architecto et libero illum vero dignissimos officiis voluptatem officia. Odio, maxime omnis! Aspernatur nisi omnis dolores obcaecati sit cupiditate iusto est officiis!",
+      "author": "Jiovanny",
+      "id": 1
+    },
+    {
+      "title": "Some blog article",
+      "body": "Amet consectetur adipisicing elit. Dolorum, laudantium deleniti dicta voluptate, necessitatibus inventore a illo iure ab quasi aut cum? Qui quo doloremque similique blanditiis delectus, architecto et libero illum vero dignissimos officiis voluptatem officia. Odio, maxime omnis! Aspernatur nisi omnis dolores obcaecati sit cupiditate iusto est officiis!",
+      "author": "Deviljo",
+      "id": 2
+    },
+    {
+      "title": "Top 10 games 2023",
+      "body": "Dolor sit amet consectetur adipisicing elit. Dolorum, laudantium deleniti dicta voluptate, necessitatibus inventore a illo iure ab quasi aut cum? Qui quo doloremque similique blanditiis delectus, architecto et libero illum vero dignissimos officiis voluptatem officia. Odio, maxime omnis! Aspernatur nisi omnis dolores obcaecati sit cupiditate iusto est officiis!",
+      "author": "Storm",
+      "id": 3
+    }
+  ]
+}
